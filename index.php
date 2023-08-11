@@ -8,6 +8,6 @@
 <meta name="author" content="">
 </head>
 
-,body></body>
+<body></body>
 
 <html></html>
